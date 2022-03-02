@@ -1,0 +1,32 @@
+body {background-image: url('https://i.ibb.co/9TxtcfP/elijs-paula.png');}
+h1 {text-align: center;}
+h1 {font-size: 40px;}
+nav {text-align: center;}
+body {
+
+background-repeat: no-repeat;
+background-attachment: fixed;  
+background-size: cover;
+}
+body{
+    font-size: 20px;
+    font-family: Arial,sans-serif;
+}
+ul {
+    padding: 0;
+    list-style: none;
+    background: none;
+}
+ul li {
+    display: inline-block;
+}
+ul li a {
+    display: block;
+    padding: 10px 130px;
+    color: #333;
+    text-decoration: none;
+}
+ul li a:hover {
+    color: gold;
+    background: blue;
+}
